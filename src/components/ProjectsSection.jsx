@@ -33,11 +33,11 @@ const projects = [
   },
   {
     id: 4,
-    title: "Smart Attendance System",
+    title: "n8n Automations",
     description:
-      "A face recognition-based attendance management system using React, Firebase, and Google Cloud for real-time data syncing.",
+      "A collection of n8n automations for various tasks, including attendance tracking and data processing. Utilizes n8n's powerful workflow automation capabilities.",
     image: "/projects/attendance.png",
-    tags: ["React", "Firebase", "Google Cloud"],
+    tags: ["AI Automation", "n8n", "AI Engineering"],
     demoUrl: "#",
     githubUrl: "#",
   },
