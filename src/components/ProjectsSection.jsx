@@ -36,7 +36,7 @@ const projects = [
     title: "n8n Automations",
     description:
       "A collection of n8n automations for various tasks, including attendance tracking and data processing. Utilizes n8n's powerful workflow automation capabilities.",
-    image: "/projects/attendance.png",
+    image: "/projects/aiagent.jpeg",
     tags: ["AI Automation", "n8n", "AI Engineering"],
     demoUrl: "#",
     githubUrl: "#",
